@@ -83,5 +83,5 @@ Cross validation and hyperparameter tunning certainly reduces chances of overfit
 Rutik Darekar | Data Analyst | Data Scientist | Machine Learning Engineer 
    
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/rutikd777)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjit-ghadge/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutik-darekar-147a54257)
 
